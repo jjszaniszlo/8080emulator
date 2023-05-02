@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/6052emu -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/include -I/opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/6052emu.dir/src/main.c.o -c /Users/jjszaniszlo/Dev/EMULATION/6052emu/src/main.c",
+  "file": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/src/main.c"
+},
+{
+  "directory": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/6052emu -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/include -I/opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/6052emu.dir/src/logger.c.o -c /Users/jjszaniszlo/Dev/EMULATION/6052emu/src/logger.c",
+  "file": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/src/logger.c"
+},
+{
+  "directory": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/6052emu -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/include -I/opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/6052emu.dir/src/loggerconf.c.o -c /Users/jjszaniszlo/Dev/EMULATION/6052emu/src/loggerconf.c",
+  "file": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/src/loggerconf.c"
+},
+{
+  "directory": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/6052emu -I/Users/jjszaniszlo/Dev/EMULATION/6052emu/include -I/opt/homebrew/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/6052emu.dir/src/cpu.c.o -c /Users/jjszaniszlo/Dev/EMULATION/6052emu/src/cpu.c",
+  "file": "/Users/jjszaniszlo/Dev/EMULATION/6052emu/src/cpu.c"
+}
+]
